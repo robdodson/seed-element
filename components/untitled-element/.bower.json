@@ -1,0 +1,18 @@
+{
+  "name": "untitled-element",
+  "private": true,
+  "dependencies": {
+    "polymer": "Polymer/polymer#master"
+  },
+  "homepage": "https://github.com/PolymerLabs/seed-element",
+  "_release": "4c59b56fb3",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "4c59b56fb313430dd94433c805717c51511f4673"
+  },
+  "_source": "git://github.com/PolymerLabs/seed-element.git",
+  "_target": "master",
+  "_originalSource": "PolymerLabs/seed-element",
+  "_direct": true
+}
